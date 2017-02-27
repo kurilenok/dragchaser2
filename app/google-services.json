@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "802346339024",
+    "firebase_url": "https://drag-chaser-2.firebaseio.com",
+    "project_id": "drag-chaser-2",
+    "storage_bucket": "drag-chaser-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802346339024:android:f7a1e1bd7200eb95",
+        "android_client_info": {
+          "package_name": "org.arcoiris.dragchaser2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802346339024-19olnjuqislljft6ljfdchn7ltrtfmao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9TaiUhqt3a4ip8frB9lUyFJLR_DaNTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802346339024:android:0ee72e61dedd65e0",
+        "android_client_info": {
+          "package_name": "arcoiris.org.dragchaser2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802346339024-k3858d21l50ejiv4tkv91abqtbpuv1uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arcoiris.org.dragchaser2",
+            "certificate_hash": "ce45d637e8d8c19dfb85eeb53c9c646597f67bee"
+          }
+        },
+        {
+          "client_id": "802346339024-19olnjuqislljft6ljfdchn7ltrtfmao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9TaiUhqt3a4ip8frB9lUyFJLR_DaNTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802346339024-19olnjuqislljft6ljfdchn7ltrtfmao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
