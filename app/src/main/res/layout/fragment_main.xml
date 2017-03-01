@@ -18,4 +18,13 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/tvFirebase" />
+
+    <Button
+        android:text="Button"
+        style="@style/RobotoButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/button" />
 </RelativeLayout>
